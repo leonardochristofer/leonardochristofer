@@ -13,13 +13,17 @@ As for personality, I am a **goal oriented person** that focused to achieve a pl
 ### My skills
 
 <p align="center">
-    <img title="Linux" alt="Linux" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/linux.svg" width="40" height="40"/>  
+    <img title="Linux" alt="Linux" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/linux.svg" width="40" height="40"/>
+    <img title="Bash" alt="Bash" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/bash.svg" width="40" height="40"/>
     <img title="Go" alt="Go" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/go.svg" width="40" height="40"/>  
     <img title="Protobuf" alt="Protobuf" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/protobuf.svg" width="40" height="40"/>  
-    <img title="Python" alt="Python" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/flask.svg" width="40" height="40"/>
-    <img title="Flask" alt="Flask" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/python.svg" width="40" height="40"/>
+    <img title="JSON" alt="JSON" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/json.svg" width="40" height="40"/>  
+    <img title="Python" alt="Python" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/python.svg" width="40" height="40"/>
+    <img title="Flask" alt="Flask" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/flask.svg" width="40" height="40"/>
     <img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/mysql.svg" width="40" height="40"/>
     <img title="PostgreSQL" alt="PostgreSQL" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/postgresql.svg" width="40" height="40"/>
+    <img title="C++" alt="C++" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/c++.svg" width="40" height="40"/>
+    <img title="PHP" alt="PHP" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/php.svg" width="40" height="40"/>
     <img title="Git" alt="Git" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/git.svg" width="75" height="40"/>
     <img title="Jira" alt="Jira" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/jira.svg" width="40" height="40"/>
     <img title="Confluence" alt="Confluence" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/confluence.svg" width="40" height="40"/>
