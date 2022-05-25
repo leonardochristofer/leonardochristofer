@@ -10,7 +10,7 @@ As for personality, I am a **goal oriented person** that focused to achieve a pl
 
 - I am a talkative person, so feel free to discuss with me about **Careers Opportunity, PC/Mobile Games, Anime, Serial Movie**.
 
-### My skills
+### Tech Stack
 
 <p align="center">
     <img title="Linux" alt="Linux" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/linux.svg" width="40" height="40"/>
@@ -18,6 +18,8 @@ As for personality, I am a **goal oriented person** that focused to achieve a pl
     <img title="Go" alt="Go" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/go.svg" width="40" height="40"/>  
     <img title="Protobuf" alt="Protobuf" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/protobuf.svg" width="40" height="40"/>  
     <img title="JSON" alt="JSON" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/json.svg" width="40" height="40"/>  
+    <img title="BloomRPC" alt="BloomRPC" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/bloomrpc.svg" width="40" height="40"/>
+    <img title="Postman" alt="Postman" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/postman.svg" width="40" height="40"/>
     <img title="Python" alt="Python" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/python.svg" width="40" height="40"/>
     <img title="Flask" alt="Flask" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/flask.svg" width="40" height="40"/>
     <img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/mysql.svg" width="40" height="40"/>
