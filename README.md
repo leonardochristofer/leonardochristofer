@@ -10,7 +10,7 @@ As for personality, I am a **goal oriented person** that focused to achieve a pl
 
 - I am a talkative person, so feel free to discuss with me about **Careers Opportunity, PC/Mobile Games, Anime, Serial Movie**.
 
-### Tech Stack
+### Tech Stack / Framework / Tools
 
 <p align="center">
     <img title="Linux" alt="Linux" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/linux.svg" width="40" height="40"/>
@@ -27,7 +27,12 @@ As for personality, I am a **goal oriented person** that focused to achieve a pl
     <img title="C++" alt="C++" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/c++.svg" width="40" height="40"/>
     <img title="PHP" alt="PHP" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/php.svg" width="40" height="40"/>
     <img title="HTML CSS JS" alt="HTML CSS JS" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/html_css_js.svg" width="40" height="40"/>
+    <img title="Bootstrap" alt="Bootstrap" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/bootstrap.svg" width="40" height="40"/>
     <img title="Git" alt="Git" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/git.svg" width="75" height="40"/>
+    <img title="Bitbucket" alt="Bitbucket" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/bitbucket.svg" width="75" height="40"/>
+    <img title="PhpMyAdmin" alt="PhpMyAdmin" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/phpmyadmin.svg" width="75" height="40"/>
+    <img title="WinSCP" alt="WinSCP" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/winscp.png" width="40" height="40"/>
+    <img title="PuTTY" alt="PuTTY" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/putty.svg" width="40" height="40"/>
     <img title="Jira" alt="Jira" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/jira.svg" width="40" height="40"/>
     <img title="Confluence" alt="Confluence" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/confluence.svg" width="40" height="40"/>
 </p>
