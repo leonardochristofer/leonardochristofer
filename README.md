@@ -4,11 +4,13 @@ A Software Development enthusiast, I am a person who wants to learn everything i
 
 As for personality, I am a **goal oriented person** that focused to achieve a planned outcome and also a **rational person** which decision making is based on logical thinking rather than emotional.
 
+- Personality type: **Assertive Commander (ENTJ-A)**.
+
 - Currently pursuing **Bachelor's in Informatics Engineering (Computer Science) at Petra Christian University, Indonesia**.
 
 - Interested in: **Big Data, Microservices, and Product Management**.
 
-- I am a talkative person, so feel free to discuss with me about **Careers Opportunity, PC/Mobile Games, Anime, Serial Movie**.
+- I am a talkative person, so feel free to discuss with me about **anything**.
 
 ### Tech Stack / Framework / Tools
 
@@ -40,16 +42,16 @@ As for personality, I am a **goal oriented person** that focused to achieve a pl
 </p>
 
 <hr>
-
 <p align="center">
     <i>Genius is one percent inspiration, ninety-nine percent perspiration.</i>
-    <br>
-    <br>
+</p>
+<hr>
+
+<p align="center">
     <a href="mailto:leonardo.christofer2001@gmail.com" target="_blank">
         <img src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/gmail.svg" width="60" height="60"/>
     </a>
     <a href="https://www.linkedin.com/in/leonardochristofer" target="_blank">
         <img src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/linkedin.svg" width="100" height="60"/>
     </a>
-    <br>
 </p>
