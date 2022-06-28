@@ -48,7 +48,7 @@ As for personality, I am a **goal oriented person** that focused to achieve a pl
 <hr>
 
 <p align="center">
-    <a href="mailto:leonardo.christofer2001@gmail.com" target="_blank">
+    <a href="mailto:leonardochristofer333@gmail.com" target="_blank">
         <img src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/gmail.svg" width="60" height="60"/>
     </a>
     <a href="https://www.linkedin.com/in/leonardochristofer" target="_blank">
