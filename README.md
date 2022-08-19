@@ -32,6 +32,7 @@ As for personality, I am a **goal oriented person** that focused to achieve a pl
     <img title="HTML CSS JS" alt="HTML CSS JS" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/html_css_js.svg" width="40" height="40"/>
     <img title="Bootstrap" alt="Bootstrap" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/bootstrap.svg" width="40" height="40"/>
     <img title="PHP" alt="PHP" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/php.svg" width="40" height="40"/>
+    <img title="Laravel" alt="Laravel" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/laravel.svg" width="40" height="40"/>
     <img title="PhpMyAdmin" alt="PhpMyAdmin" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/phpmyadmin.svg" width="75" height="40"/>
     <img title="Git" alt="Git" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/git.svg" width="75" height="40"/>
     <img title="Bitbucket" alt="Bitbucket" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/bitbucket.svg" width="75" height="40"/>
