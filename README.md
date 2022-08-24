@@ -36,6 +36,7 @@ As for personality, I am a **goal oriented person** that focused to achieve a pl
     <img title="PhpMyAdmin" alt="PhpMyAdmin" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/phpmyadmin.svg" width="75" height="40"/>
     <img title="Git" alt="Git" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/git.svg" width="75" height="40"/>
     <img title="Bitbucket" alt="Bitbucket" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/bitbucket.svg" width="75" height="40"/>
+    <img title="Docker" alt="Docker" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/docker.svg" width="40" height="40"/>
     <img title="WinSCP" alt="WinSCP" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/winscp.png" width="40" height="40"/>
     <img title="PuTTY" alt="PuTTY" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/putty.svg" width="40" height="40"/>
     <img title="Jira" alt="Jira" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/jira.svg" width="40" height="40"/>
