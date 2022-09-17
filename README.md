@@ -57,6 +57,7 @@ As for personality, I am a **goal oriented person** that focused to achieve a pl
     <img title="Bash" alt="Bash" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/bash.svg" width="40" height="40"/>
     <img title="BloomRPC" alt="BloomRPC" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/bloomrpc.svg" width="40" height="40"/>
     <img title="Postman" alt="Postman" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/postman.svg" width="40" height="40"/>
+    <br><br>
     <i>Documentation</i>
     <br><br>
     <img title="Jira" alt="Jira" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/jira.svg" width="40" height="40"/>
