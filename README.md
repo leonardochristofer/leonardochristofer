@@ -45,13 +45,11 @@ As for personality, I am a **goal oriented person** that focused to achieve a pl
     <img title="Git" alt="Git" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/git.svg" width="75" height="40"/>
     <img title="Bitbucket" alt="Bitbucket" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/bitbucket.svg" width="75" height="40"/>
     <br><br>
-    <i>Deployment and Documentation</i>
+    <i>Deployment</i>
     <br><br>
     <img title="Docker" alt="Docker" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/docker.svg" width="40" height="40"/>
     <img title="WinSCP" alt="WinSCP" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/winscp.png" width="40" height="40"/>
     <img title="PuTTY" alt="PuTTY" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/putty.svg" width="40" height="40"/>
-    <img title="Jira" alt="Jira" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/jira.svg" width="40" height="40"/>
-    <img title="Confluence" alt="Confluence" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/confluence.svg" width="40" height="40"/>
     <br><br>
     <i>Tools</i>
     <br><br>
@@ -59,6 +57,10 @@ As for personality, I am a **goal oriented person** that focused to achieve a pl
     <img title="Bash" alt="Bash" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/bash.svg" width="40" height="40"/>
     <img title="BloomRPC" alt="BloomRPC" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/bloomrpc.svg" width="40" height="40"/>
     <img title="Postman" alt="Postman" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/postman.svg" width="40" height="40"/>
+    <i>Documentation</i>
+    <br><br>
+    <img title="Jira" alt="Jira" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/jira.svg" width="40" height="40"/>
+    <img title="Confluence" alt="Confluence" src="https://raw.githubusercontent.com/leonardochristofer/leonardochristofer/master/assets/confluence.svg" width="40" height="40"/>
 </p>
 
 <hr>
