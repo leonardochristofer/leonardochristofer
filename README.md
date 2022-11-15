@@ -1,14 +1,12 @@
 ### Hi there 👋👋👋 my name is Leonardo Christofer,
 
-I am a Software Engineer with high interest in Back End Development, I know some Machine Learning, Data Mining, and Security. I am a person who wants to learn literally everything in Software Engineering field as well as it's development cycle. Love to learn new tech stack in any field. **Aspired to become a Product Manager with Software Engineering background**.
-
-As for personality, I am a **goal oriented person** that focused to achieve a planned outcome and also a **rational person** which decision making is based on logical thinking rather than emotional.
+I am a goal oriented person that focused to achieve a planned outcome and also a rational person which decision making is based on logical thinking rather than emotional. **Aspired to become a Product Manager with Software Engineering background**.
 
 - Personality type: **Assertive Commander (ENTJ-A)**.
 
 - Currently pursuing **Bachelor's in Informatics Engineering (Computer Science) at Petra Christian University, Indonesia**.
 
-- Interested in: **Big Data, Microservices, and Product Management**.
+- Interested in: **Microservices and Product Management**.
 
 - I am a talkative person, so feel free to discuss with me about **anything**.
 
