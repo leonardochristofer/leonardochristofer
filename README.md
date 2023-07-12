@@ -1,12 +1,12 @@
 ### Hi there 👋👋👋 my name is Leonardo Christofer,
 
-I am a goal oriented person that focused to achieve a planned outcome and also a rational person which decision making is based on logical thinking rather than emotional. **Aspired to become a Product Manager with Software Engineering background**.
+I am a goal oriented person that focused to achieve a planned outcome and also a rational person which decision making is based on logical thinking rather than emotional. **Always enthusiastic about learning new tech stacks.**.
 
 - Personality type: **Assertive Commander (ENTJ-A)**.
 
-- Currently pursuing **Bachelor's in Informatics Engineering (Computer Science) at Petra Christian University, Indonesia**.
+- Degree: **Bachelor's in Computer Science**.
 
-- Interested in: **Microservices and Product Management**.
+- Interested in: **Microservices Development**.
 
 - I am a talkative person, so feel free to discuss with me about **anything**.
 
